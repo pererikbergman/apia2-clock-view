@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+        <attr name="secondHand" format="dimension"/>
+        <attr name="minutHand" format="dimension"/>
+        <attr name="hourHand" format="dimension"/>
+    </declare-styleable>
+</resources>
